@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:background="#242A37"
+
+    tools:context=".views.language_actevity">
+    <TextView
+        android:id="@+id/welll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="300dp"
+
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        android:text="welcome"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/en_language"
+        android:layout_width="match_parent"
+        android:background="@drawable/ic_rec"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#FFFFFF"
+        android:text="English"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/welll" />
+
+    <Button
+        android:id="@+id/ar_language"
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/ic_rec"
+        app:layout_constraintTop_toBottomOf="@id/en_language"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="@id/en_language"
+
+        app:layout_constraintEnd_toEndOf="@id/en_language"
+        android:layout_height="50dp"
+
+        android:text="العربية" />
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        app:adSize="BANNER"
+        app:adUnitId="ca-app-pub-8351929453534437/4967121882"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

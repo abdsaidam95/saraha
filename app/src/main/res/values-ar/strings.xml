@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="app_name">Saraha</string>
+    <string name="txtlogin">احصل على نقد بناء وكن صريح</string>
+    <string name="sariiiha" translatable="false">sariiih</string>
+    <string name="logs_butt">تسجيل الدخول</string>
+    <string name="sign_of_app">الاشتراك</string>
+    <string name="or_log_in">أو التسجيل من خلال</string>
+    <string name="welcome_bck">مرحبا بعودتك</string>
+    <string name="email" translatable="false">الايميل</string>
+    <string name="logs_in">تسجيل الدخول</string>
+    <string name="forget_pass">هل نسيت كلمة المرور؟</string>
+    <string name="passss">كلمة المرور</string>
+    <string name="logss_your_acco">تسجيل الدخول لحسابك</string>
+    <string name="forget_pass_with_email">تغيير كلمة المرور</string>
+    <string name="enter_via_email">الرجاء إدخال عنوان البريد الإلكتروني الخاص بك. ستتلقى رابطًا لإنشاء كلمة مرور جديدة عبر البريد الإلكتروني</string>
+    <string name="snd">أرسل</string>
+    <string name="create_account">انشاء حساب</string>
+    <string name="name">اسم المستخدم</string>
+    <string name="phon">الهاتف</string>
+    <string name="date_birth">تاريخ الميلاد</string>
+    <string name="sign_up_agree">بالنقر فوق تسجيل فأنت توافق على اتباع "الشروط والأحكام" دون تحفظ</string>
+    <string name="hom">الرئيسية</string>
+    <string name="messag">الرسائل</string>
+    <string name="profil">حسابك</string>
+    <string name="serc">ابحث</string>
+    <string name="disco">اكتشف</string>
+    <string name="viewall">عرض الكل</string>
+    <string name="recent_sea">البحث الأخير</string>
+    <string name="clear_al">امسح الكل</string>
+    <string name="folw">متابعة</string>
+    <string name="masage_recive">الرسائل الواردة</string>
+    <string name="shar">مشاركة</string>
+    <string name="repy">رد</string>
+    <string name="post">المشاركات</string>
+    <string name="followg">المتابعون</string>
+    <string name="followr">يتابع</string>
+    <string name="about_m">عني</string>
+    <string name="photo">الصور</string>
+    <string name="setting">الاعدادات</string>
+    <string name="push_notifica">ضبط الاشعارات</string>
+    <string name="languag">اللغة</string>
+    <string name="contact">اتصل بنا</string>
+    <string name="privacy_polic">سياسة الخصوصية</string>
+    <string name="search_histor">سجل البحث</string>
+    <string name="report_a_problm">الإبلاغ عن مشكلة</string>
+    <string name="current_message">أحدث الرسائل</string>
+    <string name="edit_profil">تعديل الملف الشخصي</string>
+    <string name="change_profile_phto">تعديل صورة الملف الشخصي</string>
+    <string name="usernam">اسم المستخدم</string>
+    <string name="emai">البريد الالكتروني</string>
+    <string name="phonee">الهاتف</string>
+    <string name="gend">الجنس</string>
+    <string name="old_passwrd">كلمة المرور القديمة</string>
+    <string name="new_pas">كلمة المرور الجديدة</string>
+    <string name="change_passwrd">تغيير كلمة المرور</string>
+    <string name="confrm_password">تأكيد كلمة المرور</string>
+    <string name="contry">الدولة</string>
+    <string name="nicknme">الاسم المستعار</string>
+    <string name="show">عرض</string>
+    <string name="newuser">المستخدمين الجدد</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="connect_to_facebook">ربط بالفيس بوك</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="personal_profile">النبذة الشخصية</string>
+    <string name="add">اضافة</string>
+    <string name="subject">الموضوع:</string>
+    <string name="personal_profilesssss">النبذة الشخصية</string>
+    <string name="write_comment">اكتب ردا ......</string>
+    <string name="error_in_login">خطا في تسجيل الدخول</string>
+    <string name="sucsess_login">تم تسجيل الدخول بنجاح</string>
+    <string name="sucsesschange">تم تغيير كلمة المرور بنجاح</string>
+    <string name="faildofchange">خطا في تغيير كلمة المرور</string>
+    <string name="createaccont">تم انشاء الحساب بنجاح</string>
+    <string name="error_of_data">هناك خطا بالبيانات</string>
+    <string name="accoutnotexsist">الحساب الذي تبحث عنه ليس موجودا</string>
+    <string name="no_massage">لا يوجد مسجات</string>
+    <string name="Themessagewassentsuccessfully">تم ارسال الرسالة بنجاح</string>
+    <string name="errorsendmassage">خدا بارسال الرسالة</string>
+    <string name="error_send" tools:ignore="DuplicateDefinition">خطا في ارسال الرسالة</string>
+    <string name="error_sendsss" tools:ignore="DuplicateDefinition">خطا في ارسال الرسالة</string>
+    <string name="sucsess_change_photo">تم تغيير صورة البروفايل</string>
+    <string name="error_chngephoto">خطا بتغيير صورة البروفايل</string>
+    <string name="register_with_facebook">التسجيل بالفيس بوك</string>
+    <string name="register_facebook">انشاء حساب</string>
+    <string name="login_facebook">تسجيل الدخول </string>
+    <string name="log_in_with_facebook">تسجيل الدخول بالفيس بوك</string>
+    <string name="nikenane">الاسم السمتعار(nick name)</string>
+    <string name="upload_a_picture">ارفع صورة</string>
+    <string name="load">جاري التحميل....</string>
+    <string name="executed">يتم تنفيذ الطلب</string>
+
+</resources>

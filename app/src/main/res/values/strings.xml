@@ -1,0 +1,100 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Sariiih</string>
+    <string name="txtlogin">Get constructive criticism and be honest</string>
+    <string name="facebook_app_id" translatable="false">1006022379588946</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1006022379588946</string>
+
+
+    <string name="sariiiha" translatable="false">sariiih</string>
+    <string name="logs_butt">Log In</string>
+    <string name="sign_of_app">Sign Up</string>
+    <string name="or_log_in">Or Log In with</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="fcm_token" tools:ignore="MissingTranslation">FCM Token: %s</string>
+    <string name="welcome_bck">Welcome back</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="logs_in">Login</string>
+    <string name="forget_pass">Forget your password?</string>
+    <string name="passss">password</string>
+    <string name="logss_your_acco">Login to your account</string>
+    <string name="forget_pass_with_email">Change password</string>
+    <string name="enter_via_email">please enter your email address. you will eceive alink to create new password via email</string>
+    <string name="snd">send</string>
+    <string name="create_account">Create an account</string>
+    <string name="name">User name</string>
+    <string name="phon">phone</string>
+    <string name="date_birth">Date of birth</string>
+    <string name="sign_up_agree">By clicking Sign up you agree to following Terms and Conditions without reservation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" tools:ignore="MissingTranslation">Hello blank fragment</string>
+    <string name="hom">Home</string>
+    <string name="messag">Messages</string>
+    <string name="profil">Profiles</string>
+    <string name="serc">Search</string>
+    <string name="disco">Discover</string>
+    <string name="viewall">View all</string>
+    <string name="recent_sea">Recent search</string>
+    <string name="clear_al">Clear all</string>
+    <string name="folw">FOLOW</string>
+    <string name="masage_recive">Incoming messages</string>
+    <string name="shar">share</string>
+    <string name="repy">Reply</string>
+    <string name="post">posts</string>
+    <string name="followg">Following</string>
+    <string name="followr">Follower</string>
+    <string name="about_m">About me</string>
+    <string name="photo">photos</string>
+    <string name="setting">Settings</string>
+    <string name="push_notifica">Push Notification</string>
+    <string name="languag">Language</string>
+    <string name="contact">Contact us</string>
+    <string name="privacy_polic">Privacy Policy</string>
+    <string name="search_histor">search history</string>
+    <string name="report_a_problm">Report a Problem</string>
+    <string name="current_message">current messages</string>
+    <string name="edit_profil">Edit Profile</string>
+    <string name="change_profile_phto">change profile photo</string>
+    <string name="usernam">Username</string>
+    <string name="emai">Email</string>
+    <string name="phonee">phone</string>
+    <string name="gend">Gender</string>
+    <string name="old_passwrd">Old Password</string>
+    <string name="new_pas">new passwrd</string>
+    <string name="change_passwrd">Change Password</string>
+    <string name="confrm_password">Confirm password</string>
+    <string name="contry">Country</string>
+    <string name="nicknme">NickName</string>
+    <string name="default_notification_channel_id" tools:ignore="MissingTranslation">channel</string>
+    <string name="show">Show</string>
+    <string name="newuser">New users</string>
+    <string name="logout">Logout</string>
+    <string name="connect_to_facebook">Connect to Facebook</string>
+    <string name="username">Username</string>
+    <string name="personal_profile">Personal profile</string>
+    <string name="add">ADD</string>
+    <string name="subject">Subject:</string>
+    <string name="personal_profilesssss">Personal profile</string>
+    <string name="write_comment">write comment ......</string>
+    <string name="error_in_login">This is an error of Login</string>
+    <string name="sucsess_login">Success Login</string>
+    <string name="sucsesschange">sucsess change password</string>
+    <string name="faildofchange">faild of change password</string>
+    <string name="createaccont">Success create account</string>
+    <string name="error_of_data">This is an error of data</string>
+    <string name="accoutnotexsist">The account you are looking for does not exist</string>
+    <string name="no_massage">There are no messages</string>
+    <string name="Themessagewassentsuccessfully">The message was sent successfully</string>
+    <string name="errorsendmassage">This is an error in send message</string>
+    <string name="error_send">This is an error in send message</string>
+    <string name="sucsess_change_photo">The photo was changed successfully</string>
+    <string name="error_chngephoto">This is an error of change photo</string>
+    <string name="register_with_facebook">Register with Facebook</string>
+    <string name="register_facebook">Register Facebook</string>
+    <string name="login_facebook">Login </string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="nikenane">NikeNane</string>
+    <string name="upload_a_picture">Upload a picture</string>
+    <string name="load">Its loading....</string>
+    <string name="executed">the request is executed</string>
+</resources>
